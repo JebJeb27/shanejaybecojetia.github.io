@@ -4,7 +4,6 @@
 💻 Aspiring Web Developer  
 🎬 Video Editor | 📸 Photography Enthusiast | 🎨 Creative Designer  
 
----
 
 👨‍💻 About Me
 
@@ -47,10 +46,8 @@ Example:
 - Facebook: https://facebook.com/jaybecojetia27
 - Email: shanecojetia27@gmail.com</comment-tag id="5" text="GitHub Markdown allows you to make these links directly clickable, which vastly improves the user experience for anyone trying to contact you. Use the [Text](URL) format. 
 
-Example: 
 - [GitHub](https://github.com/JebJeb27)
 - [Facebook](https://facebook.com/jaybecojetia27)
 - [Email](mailto:shanecojetia27@gmail.com)" type="suggestion">
 
-
-⭐ Thank you for visiting my GitHub profile!
+Thank you for visiting my GitHub profile!
