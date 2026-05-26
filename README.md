@@ -25,8 +25,7 @@ I enjoy learning new technologies and improving my skills in both frontend devel
 - Build meaningful and user-friendly applications
 - Continue improving my programming and creative skills
 - Gain professional experience in the IT industry
-- These goals are good, but they can be made more actionable and specific to show your drive. Instead of just 'Become', use active verbs.
-
+  
 📫 Contact Me
 
 <comment-tag id="5">- GitHub: https://github.com/JebJeb27
