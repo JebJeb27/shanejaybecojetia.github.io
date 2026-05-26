@@ -44,10 +44,10 @@ Example:
 
 <comment-tag id="5">- GitHub: https://github.com/JebJeb27
 - Facebook: https://facebook.com/jaybecojetia27
-- Email: shanecojetia27@gmail.com</comment-tag id="5" text="GitHub Markdown allows you to make these links directly clickable, which vastly improves the user experience for anyone trying to contact you. Use the [Text](URL) format. 
+- Email: shanecojetia27@gmail.com
 
 - [GitHub](https://github.com/JebJeb27)
 - [Facebook](https://facebook.com/jaybecojetia27)
-- [Email](mailto:shanecojetia27@gmail.com)" type="suggestion">
+- [Email](mailto:shanecojetia27@gmail.com)
 
 Thank you for visiting my GitHub profile!
