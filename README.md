@@ -11,8 +11,6 @@
 
 I enjoy learning new technologies and improving my skills in both frontend development and creative design.</comment-tag id="1" text="Since you already mentioned your degree and college in the header, repeating it here takes up valuable space. Let's combine these paragraphs to highlight your unique blend of skills. 
 
-Example: 'As an Information Technology student, I blend technical logic with creative design. My passion lies in building intuitive web applications and crafting compelling multimedia content. I am constantly exploring new frontend technologies to bridge the gap between functionality and aesthetics.'" type="suggestion">
-
 
  🚀 Skills
 
@@ -23,7 +21,6 @@ Example: 'As an Information Technology student, I blend technical logic with cre
 - UI/UX Design
 - Video Editing
 - Photography
-- Problem Solving</comment-tag id="2" text="In GitHub READMEs, plain bulleted lists can look a bit dry. Consider grouping your skills by category to make them highly scannable for recruiters. 
 
 
 🎯 Goals
