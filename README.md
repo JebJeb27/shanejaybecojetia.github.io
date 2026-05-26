@@ -70,13 +70,13 @@ Example:
 ## 📫 Contact Me
 
 <comment-tag id="5">- GitHub: https://github.com/yourusername
-- Facebook: https://facebook.com/yourprofile
-- Email: youremail@example.com</comment-tag id="5" text="GitHub Markdown allows you to make these links directly clickable, which vastly improves the user experience for anyone trying to contact you. Use the [Text](URL) format. 
+- Facebook: https://facebook.com/jaybecojetia27
+- Email: shanecojetia27@gmail.com</comment-tag id="5" text="GitHub Markdown allows you to make these links directly clickable, which vastly improves the user experience for anyone trying to contact you. Use the [Text](URL) format. 
 
 Example: 
-- [GitHub](https://github.com/yourusername)
-- [Facebook](https://facebook.com/yourprofile)
-- [Email](mailto:youremail@example.com)" type="suggestion">
+- [GitHub](https://github.com/JebJeb27)
+- [Facebook](https://facebook.com/jaybecojetia27)
+- [Email](mailto:shanecojetia27@gmail.com)" type="suggestion">
 
 ---
 
