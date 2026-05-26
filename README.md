@@ -24,7 +24,8 @@ I enjoy learning new technologies and improving my skills in both frontend devel
 <comment-tag id="4">- Become a skilled Full Stack Developer
 - Build meaningful and user-friendly applications
 - Continue improving my programming and creative skills
-- Gain professional experience in the IT industry</comment-tag id="4" text="These goals are good, but they can be made more actionable and specific to show your drive. Instead of just 'Become', use active verbs.
+- Gain professional experience in the IT industry
+- <comment-tag id="4" text="These goals are good, but they can be made more actionable and specific to show your drive. Instead of just 'Become', use active verbs.
 
 📫 Contact Me
 
