@@ -10,7 +10,7 @@
 
 I enjoy learning new technologies and improving my skills in both frontend development and creative design.
 
-<comment-tag id="2"> My Skills
+<comment-tag id="2"> My Skills;
 - CSS
 - JavaScript
 - Java
