@@ -4,14 +4,13 @@
 💻 Aspiring Web Developer  
 🎬 Video Editor | 📸 Photography Enthusiast | 🎨 Creative Designer  
 
-
 👨‍💻 About Me
 
 <comment-tag id="1">I am a 20-year-old Bachelor of Science in Information Technology (BSIT) student from Davao del Norte State College. I am passionate about technology, web development, programming, multimedia editing, and creating innovative digital projects.
 
 I enjoy learning new technologies and improving my skills in both frontend development and creative design.
 
-<comment-tag id="2">- HTML
+<comment-tag id="2"> My Skills
 - CSS
 - JavaScript
 - Java
