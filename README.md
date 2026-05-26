@@ -26,7 +26,6 @@ Example: 'As an Information Technology student, I blend technical logic with cre
 - Problem Solving</comment-tag id="2" text="In GitHub READMEs, plain bulleted lists can look a bit dry. Consider grouping your skills by category to make them highly scannable for recruiters. 
 
 
-
 🎯 Goals
 
 <comment-tag id="4">- Become a skilled Full Stack Developer
@@ -45,9 +44,5 @@ Example:
 <comment-tag id="5">- GitHub: https://github.com/JebJeb27
 - Facebook: https://facebook.com/jaybecojetia27
 - Email: shanecojetia27@gmail.com
-
-- [GitHub](https://github.com/JebJeb27)
-- [Facebook](https://facebook.com/jaybecojetia27)
-- [Email](mailto:shanecojetia27@gmail.com)
 
 Thank you for visiting my GitHub profile!
