@@ -43,7 +43,7 @@ Example:
 
 📫 Contact Me
 
-<comment-tag id="5">- GitHub: https://github.com/yourusername
+<comment-tag id="5">- GitHub: https://github.com/JebJeb27
 - Facebook: https://facebook.com/jaybecojetia27
 - Email: shanecojetia27@gmail.com</comment-tag id="5" text="GitHub Markdown allows you to make these links directly clickable, which vastly improves the user experience for anyone trying to contact you. Use the [Text](URL) format. 
 
