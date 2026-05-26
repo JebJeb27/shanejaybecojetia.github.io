@@ -13,10 +13,11 @@ I enjoy learning new technologies and improving my skills in both frontend devel
 <comment-tag id="2"> My Skills;
 - CSS
 - JavaScript
-- Java
+- Php
 - UI/UX Design
 - Video Editing
 - Photography
+- Laravel frameworks
 
 🎯 Goals
 
