@@ -9,9 +9,7 @@
 
 <comment-tag id="1">I am a 20-year-old Bachelor of Science in Information Technology (BSIT) student from Davao del Norte State College. I am passionate about technology, web development, programming, multimedia editing, and creating innovative digital projects.
 
-I enjoy learning new technologies and improving my skills in both frontend development and creative design.</comment-tag id="1" text="Since you already mentioned your degree and college in the header, repeating it here takes up valuable space. Let's combine these paragraphs to highlight your unique blend of skills. 
-
- 🚀 Skills
+I enjoy learning new technologies and improving my skills in both frontend development and creative design.
 
 <comment-tag id="2">- HTML
 - CSS
